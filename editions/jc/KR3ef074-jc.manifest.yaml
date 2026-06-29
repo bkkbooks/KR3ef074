@@ -1,0 +1,114 @@
+canonical_identifier: bkk:krp/KR3ef074/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef074/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷風約言
+  identifiers:
+    krp: KR3ef074
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef074.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef074_000-jc.yaml, hash: 'sha256:ad883882dd0b33607ff22ed12d0737140a92abc9b1e42f21507758b030397c52'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef074_000-jc.markers.yaml, hash: 'sha256:870e7d4ed02ced63c4616cfb2eafc68bd66faf17d2eacd3d7702f70d1df95768'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef074_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 578
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef074_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 1711
+  label: 傷風名義
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef074_jc_000-d4.h1s1
+    span:
+    - body
+    - 1711
+    - 2678
+  label: 六經辨解
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef074_jc_000-d5.h1s1
+    span:
+    - body
+    - 2678
+    - 5033
+  label: 傷風大意
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef074_jc_000-d6.h1s1
+    span:
+    - body
+    - 5033
+    - 6183
+  label: 淺證治例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef074_jc_000-d7.h1s1
+    span:
+    - body
+    - 6183
+    - 6792
+  label: 深證治例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef074_jc_000-d8.h1s1
+    span:
+    - body
+    - 6792
+    - 8014
+  label: 閉證治例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef074_jc_000-d9.h1s1
+    span:
+    - body
+    - 8014
+    - 8564
+  label: 脫證治例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef074_jc_000-d10.h1s1
+    span:
+    - body
+    - 8564
+    - 9456
+  label: 脈論
+  type: section
+  level: 1
+hash: sha256:d87421d2f1a582899ab42d60289e8d8ad54f268e9659fdb96ab193d9760a7be7
