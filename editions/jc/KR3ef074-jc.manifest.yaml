@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ef074_000-jc.yaml, hash: 'sha256:ad883882dd0b33607ff22ed12d0737140a92abc9b1e42f21507758b030397c52'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef074_000-jc.markers.yaml, hash: 'sha256:870e7d4ed02ced63c4616cfb2eafc68bd66faf17d2eacd3d7702f70d1df95768'}
+  - {seq: 0, role: markers, filename: assets/KR3ef074_000-jc.markers.yaml, hash: 'sha256:ef51fea6da7ed385b3594242e0a70fe749725fd16746f5f8ef710034e806de23'}
 table_of_contents:
 - ref:
     seq: 0
@@ -111,4 +111,4 @@ table_of_contents:
   label: 脈論
   type: section
   level: 1
-hash: sha256:d87421d2f1a582899ab42d60289e8d8ad54f268e9659fdb96ab193d9760a7be7
+hash: sha256:44f27ce60ce0941dcfa8ba26938d18ce314e2784bc3200f33616877f185b257c
